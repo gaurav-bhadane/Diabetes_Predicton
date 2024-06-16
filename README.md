@@ -1,6 +1,6 @@
-# Diabetes Prediction Using Logistic Regression
+# Diabetes Prediction Using Support Vector Classifier
 
-This repository contains the code and resources for predicting diabetes using a Logistic Regression model. The project is implemented in Python, utilizing libraries such as pandas, scikit-learn, and Flask for web deployment.
+This repository contains the code and resources for predicting diabetes using a Support Vector Classifier model. The project is implemented in Python, utilizing libraries such as pandas, scikit-learn, and Flask for web deployment.
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -14,7 +14,7 @@ This repository contains the code and resources for predicting diabetes using a 
 
 ## Project Overview
 
-The goal of this project is to create a predictive model that can classify whether a person has diabetes based on various medical parameters. The Logistic Regression algorithm is used due to its effectiveness in binary classification problems.
+The goal of this project is to create a predictive model that can classify whether a person has diabetes based on various medical parameters. The Support Vector Classifier algorithm is used due to its effectiveness in binary classification problems.
 
 ## Dataset
 
@@ -79,7 +79,7 @@ To run the project locally, follow these steps:
 
 ## Results
 
-The model's performance metrics, such as accuracy, precision, recall, and F1-score, are detailed in the Jupyter notebooks. These metrics help evaluate the effectiveness of the Logistic Regression model in predicting diabetes.
+The model's performance metrics, such as accuracy, precision, recall, and F1-score, are detailed in the Jupyter notebooks. These metrics help evaluate the effectiveness of the Support Vector Classifier model in predicting diabetes.
 
 ## Contributing
 
