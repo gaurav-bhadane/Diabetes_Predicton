@@ -8,7 +8,7 @@ application=Flask(__name__)
 app=application
 
 scaler=pickle.load(open('Model/Standardscaler.pkl','rb'))
-model=pickle.load(open('Model/Prediction.pkl','rb'))
+model=pickle.load(open('Model/SVC_Prediction.pkl','rb'))
 
 # Route for Homepage
 
